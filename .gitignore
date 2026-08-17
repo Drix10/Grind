@@ -1,0 +1,17 @@
+# C/C++ build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+
+# Debug / temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Local editor files
+.vscode/
