@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main()
+{
     int a, b, temp;
     a = 10;
     b = 20;

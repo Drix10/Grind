@@ -5,12 +5,16 @@ int main()
     printf("Enter a number: ");
     scanf("%d", &a);
 
-    if (a > 0) {
+    if (a > 0)
+    {
         printf("+ve Number");
     }
-    else if (a < 0) {
+    else if (a < 0)
+    {
         printf("-ve Number");
-    } else {
-         printf("It's a ZERO");
+    }
+    else
+    {
+        printf("It's a ZERO");
     }
 }
